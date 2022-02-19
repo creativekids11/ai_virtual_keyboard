@@ -1,4 +1,3 @@
-from cmath import rect
 import cv2
 import mediapipe as mp
 from pynput.keyboard import Controller
